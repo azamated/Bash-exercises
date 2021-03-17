@@ -10,3 +10,6 @@ unzipWithGrep.sh:
 
 awk_parser.awk
 	-- An example of AWK parser that perform conditional operation with data parsed
+
+findReplace.sed
+	-- Substitute all matches with a pattern inside a file using SED
