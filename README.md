@@ -9,7 +9,7 @@ unzipWithGrep.sh:
 
 
 awk_parser.awk
-	-- An example of AWK parser that perform conditional operation with data parsed
+	-- An example of AWK parser that performs conditional operations with parsed data
 
 findReplace.sed
 	-- Substitute all matches with a pattern inside a file using SED
